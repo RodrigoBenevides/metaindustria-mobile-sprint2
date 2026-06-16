@@ -1,0 +1,15 @@
+Advanced Programming & Mobile Dev
+Sprint 2 - Frontend Mobile
+
+Integrantes:
+Rodrigo Caruzzo Benevides - RM 554665
+Gustavo Demeis Peres - RM 555143
+Caio Tadeu Da Silva Faraleski - RM 558795
+Pedro Alvarez Certo - RM 554603
+Eduardo do Nascimento Souza - RM 558819
+
+Link do repositório frontend:
+https://github.com/RodrigoBenevides/metaindustria-mobile-sprint2
+
+Link do vídeo:
+https://drive.google.com/file/d/1UHD1_NNIhqmkwELwyqJvkRdUkEA53_yQ/view?usp=sharing
